@@ -10,7 +10,8 @@ Overview of Python lessons
 
 ### Lesson #1: Read/Write, os, pickle and requests (coingecko API)
 
-click [here](https://github.com/jonas089/teaching-programming/tree/master/python-lessons)
+click 
+[here](https://github.com/jonas089/teaching-programming/tree/master/python-lessons/lesson-1-scraping-and-storage)
 
 ## React
 Overview of React lessons
